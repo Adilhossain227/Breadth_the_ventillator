@@ -1,0 +1,4 @@
+During the Real prototyping and testing phase we changed some of our design parts so that 
+the system is more easily made and cost is reduced. 
+The demo can be seen in the video link :
+https://drive.google.com/drive/folders/1BkHu2TiBK1JDqyuwm7_MZNxMjV42ndzz?fbclid=IwAR3aBdzT73Rbgg5VdbvXHne3hRGAVYNfIKQq8WpwV1ZP8MUlO9rwlckS1Jg
